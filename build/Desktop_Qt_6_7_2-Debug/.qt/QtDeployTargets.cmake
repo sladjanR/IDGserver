@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_IDGserver_FILE /home/jecaj_lava/Projekat/IDGserver/build/Desktop_Qt_6_7_2-Debug/IDGserver)
+set(__QT_DEPLOY_TARGET_IDGserver_TYPE EXECUTABLE)

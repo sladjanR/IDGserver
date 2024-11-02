@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6109eb68e06292f6b074.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IDGserver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IDGserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IDGserver-Debug-8f107be15accfd42da5a.json",
+					"name" : "IDGserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IDGserver_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IDGserver_autogen-Debug-d28fd070a959039d6bef.json",
+					"name" : "IDGserver_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IDGserver_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IDGserver_autogen_timestamp_deps-Debug-b080acdff07beb23f089.json",
+					"name" : "IDGserver_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jecaj_lava/Projekat/IDGserver/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/jecaj_lava/Projekat/IDGserver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
